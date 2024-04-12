@@ -1,0 +1,17 @@
+download vs code 
+download and install git,git -v
+create an account in github
+html-hyper text markup lang started in 1992 
+html is used for the content or structure of the webpage.it includes links tables,data,forms,images,media etc 
+formating tags are used to format the text 
+br-break the line 
+hr- is used togoive horizontal line
+b-is used to give bold
+strong-strong tag is used to 
+<i>-it can give in italic form
+<u> is used to underline the word
+<del> is used to strike the word or letter
+<ins>inserted  the words
+<pre> tag is used to give what we write that only give exactly
+<sub>tag is used to below the word likee h20
+<sup> tag is used toabove the word like a*2
